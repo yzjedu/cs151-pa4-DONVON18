@@ -94,12 +94,24 @@ User gets to choose the name of the word and the new file .
 5. print longest shortest statement
 
 
-### Purpose: Read in a new file to analyze.
-    ### Name: read in new file
-    ### Parameters: data
-    ### Return: file
+### Purpose: option display
+    ### Name: display
+    ### Parameters: 
+    ### Return: option
     ### Algorithm:
+1. Introduce the options and how to choose them and then prompt the user to choose
+2. takes the file name and store it in the
 
+
+### Purpose: Main
+    ### Name: Main
+    ### Parameters: 
+    ### Return: 
+    ### Algorithm:
+1. introduce code
+2. Option is z
+3. while option is not E
+   1. prompt for option
 If the user chooses this option, it overwrites the data you had been storing
 (e.g. old file is no longer stored in program after new file is read in)
 The user gets to keep choosing what they want to do until they choose to quit.
