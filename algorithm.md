@@ -95,9 +95,9 @@ User gets to choose the name of the word and the new file .
 
 
 ### Purpose: Read in a new file to analyze.
-    ### Name: file_to_list
-    ### Parameters: file name
-    ### Return: data
+    ### Name: read in new file
+    ### Parameters: data
+    ### Return: file
     ### Algorithm:
 
 If the user chooses this option, it overwrites the data you had been storing

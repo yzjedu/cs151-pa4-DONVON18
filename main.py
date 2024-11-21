@@ -110,9 +110,11 @@ def find_longest_shortest_lines(data):
     print(f'The shortest headline is: {shortest}')
     print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
 
-# Purpose: Output the longest and shortest headline.
+# Purpose: Read in a new file to analyze
   # Parameters: data
-  # Return: longest and shortest statement
+  # Return: a file
+def read_in_newfile(data):
+    open ('newfile.txt', 'w')
 
 def main():
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
